@@ -1,0 +1,48 @@
+{
+  "name": "jailed-t",
+  "version": "0.2.1",
+  "description": "Forked module 'jailed' with some adjustments to be able to import some allowed modules from within sandboxed code.",
+  "main": "./lib/jailed.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yermbiz/jailed.git"
+  },
+  "keywords": [
+    "jailed",
+    "isomorphic",
+    "sandbox",
+    "export",
+    "eval",
+    "plugin",
+    "untrusted",
+    "restricted",
+    "privilliges",
+    "access",
+    "security",
+    "thread",
+    "worker",
+    "process",
+    "messaging"
+  ],
+  "author": {
+    "name": "Dmitry Prokashev",
+    "email": "heliosframework@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yermbiz/jailed/issues"
+  },
+  "homepage": "https://github.com/yermbiz/jailed#readme",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}

@@ -1,7 +1,7 @@
 {
-  "name": "jailed",
-  "version": "0.2.0",
-  "homepage": "https://github.com/asvd/jailed",
+  "name": "jailed-t",
+  "version": "0.2.1",
+  "homepage": "https://github.com/yermbiz/jailed",
   "authors": [
     "Dmitry Prokashev <heliosframework@gmail.com>"
   ],
